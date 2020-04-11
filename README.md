@@ -4,7 +4,7 @@ This is the web client that is suppose to work with the [Amazon Wishlist API](ht
 
 This tutorial can be found on Medium:
 
-[Build An Amazon Product Wishlist App Part 2/2 -Frontend](https://medium.com/codingwithmanny)
+[Build An Amazon Product Wishlist App Part 2/2 -Frontend](https://medium.com/@codingwithmanny/build-an-amazon-product-wishlist-app-part-1-2-backend-3a55f8474f60)
 
 ## Requirements
 
